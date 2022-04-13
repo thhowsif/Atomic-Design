@@ -106,10 +106,6 @@ So we were able to write a few rules:
   - Prettier
 
 
-## Contributors
-[@danilowoz](https://github.com/danilowoz/)
-
-[@dleitee](https://github.com/dleitee/)
 
 ### License
 MIT
